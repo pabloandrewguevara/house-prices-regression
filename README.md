@@ -3,14 +3,14 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 
 ## Ranking
-### Stacked Ensemble (Ridge Regression): 0.12275 RMSLE (91st percentile)
+#### Stacked Ensemble (Ridge Regression): 0.12275 RMSLE (91st percentile)
 - XGBoost
 - Ridge Regression
 - LightGBM
 
 &nbsp;
 
-### Feedforward Neural Network: 0.14004 RMSLE (44th percentile)
+#### Feedforward Neural Network: 0.14004 RMSLE (44th percentile)
 - Input Layer: 238 features
 - Hidden Layer 1: 64 units with ReLU activation
 - Hidden Layer 2: 64 units with ReLU activation
