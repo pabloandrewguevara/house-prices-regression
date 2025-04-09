@@ -1,6 +1,7 @@
 # Kaggle: House Prices - Advanced Regression Techniques
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
+&nbsp;
 
 ## Ranking
 #### Stacked Ensemble (Ridge Regression): 0.12275 RMSLE (91st percentile)
