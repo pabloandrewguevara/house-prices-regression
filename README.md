@@ -4,7 +4,7 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 &nbsp;
 
 ## Ranking
-#### Stacked Ensemble (Ridge Regression): 0.12275 RMSE Log Loss (91st percentile)
+#### Stacked Ensemble: 0.12275 RMSE Log Loss (91st percentile)
 - XGBoost
 - Ridge Regression
 - LightGBM
